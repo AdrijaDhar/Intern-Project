@@ -30,54 +30,5 @@ The sub-projects included in our repository are:
 
 [BERT Model](https://github.com/AdrijaDhar/Machine-Learning-Portfolio-Algorithms-and-Datasets/tree/master/BERT_IMDB%20MOvie%20review): Trained on movie review data from IMDb, our BERT model project offers sentiment analysis and text classification capabilities, showcasing the power of pre-trained transformer models.
 
-Installation
-To run the code and utilize the functionalities of this project, you need to ensure that you have the necessary Python libraries installed. Here's how you can set up your environment:
 
-Clone the repository to your local machine using the following command:
-
-bash
-Copy code
-git clone https://github.com/your-username/your-repository.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd your-repository
-Create a virtual environment (optional but recommended) to keep the project dependencies isolated:
-
-bash
-Copy code
-python -m venv env
-Activate the virtual environment:
-
-For Windows:
-
-bash
-Copy code
-env\Scripts\activate
-For macOS and Linux:
-
-bash
-Copy code
-source env/bin/activate
-Install the required Python libraries by running the following command:
-
-Copy code
-pip install -r requirements.txt
-This command will install all the necessary libraries, including:
-
-numpy
-pandas
-matplotlib
-seaborn
-plotly
-tensorflow
-nltk
-These libraries are crucial for data manipulation, visualization, machine learning algorithms, and natural language processing.
-
-Once the installation is complete, you're ready to run the code and explore the sub-projects.
-
-Note: It's recommended to use Python 3.7 or higher for optimal compatibility with the libraries used in this project.
-
-If you encounter any issues during the installation process, please refer to the official documentation of each library for troubleshooting or visit the library's GitHub repository for further assistance.
 
