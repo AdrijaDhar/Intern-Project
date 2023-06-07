@@ -10,7 +10,7 @@ The sub-projects included in our repository are:
 [Linear Regression](https://github.com/AdrijaDhar/Machine-Learning-Portfolio-Algorithms-and-Datasets/tree/master/Linear%20Regression)
 : Trained on an ecommerce customer dataset from Kaggle, this project aims to predict customer spending patterns and provide insights for marketing strategies.
 
-Logistic Regression: Utilizing an advertising dataset from Kaggle, this project focuses on predicting the likelihood of customer response to advertising campaigns.
+[Logistic Regression](https://github.com/AdrijaDhar/Machine-Learning-Portfolio-Algorithms-and-Datasets/tree/master/Logistic%20Regression): Utilizing an advertising dataset from Kaggle, this project focuses on predicting the likelihood of customer response to advertising campaigns.
 
 Decision Tree: Implemented using loan data from Wikipedia, this project offers a predictive model to determine loan approval or rejection based on various factors.
 
