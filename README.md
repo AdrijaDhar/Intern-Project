@@ -7,7 +7,7 @@ Our project, the Comprehensive Machine Learning Algorithms and Models, is a coll
 
 The sub-projects included in our repository are:
 
-            Linear Regression: Trained on an ecommerce customer dataset from Kaggle, this project aims to predict customer spending patterns and provide insights for marketing strategies.
+Linear Regression: Trained on an ecommerce customer dataset from Kaggle, this project aims to predict customer spending patterns and provide insights for marketing strategies.
 
 Logistic Regression: Utilizing an advertising dataset from Kaggle, this project focuses on predicting the likelihood of customer response to advertising campaigns.
 
