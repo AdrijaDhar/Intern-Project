@@ -1,6 +1,7 @@
 # Machine-Learning-Portfolio-Algorithms-and-Datasets
 Project Title:
   Machine Learning Portfolio: Algorithms and Datasets
+  
 Project Description:
 Our project, the Comprehensive Machine Learning Algorithms and Models, is a collection of 12 sub-projects that cover a wide range of machine learning techniques and applications. With a focus on practical implementation, our repository provides a valuable resource for both beginners and experienced practitioners in the field.
 
